@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">ExpandableTextView</string>
+
+    <string name="one_title">Student Welfare Group</string>
+    <string name="one_desc">To help the students in improving their skills, attitude and provide resources</string>
+
+    <string name="two_title">Ambar</string>
+    <string name="two_desc">Ambar aims to advocate for the rights and equality of gender and sexual minorities within the IIT Kharagpur
+        campus by creating awareness to increase the acceptance of such minorities. Moreover, Ambar tries to help people discover themselves in a supporting
+        environment, alongside other people who are undergoing (or have previously undergone) the same.</string>
+
+    <string name="three_title">Aroma</string>
+    <string name="three_desc">The objective of Technology Culinary Arts Society(Aroma) shall be to encourage students to take an active interest in culinary activities.
+        It shall promote culinary arts culture in the Institute on behalf of Gymkhana. It will also submit proposals for organizing workshops and seminars on culinary arts and
+        proper diet for health care for the benefit of the students.</string>
+
+    <string name="four_title">Awaaj</string>
+    <string name="four_desc">To report and present different views about events which affect the campus community and to give voice to the matters regarding
+        students welfare. We bring out the monthly campus newsletter of IIT Kharagpur published in Hindi. Awaaz, as the name suggests, aims to provide a voice
+        to the student community in front of the administration. Awaaz presents and reports the various issues in the campus to the entire student fraternity and
+        the administration and bring out collaborative solutions to make things better in the institute.
+        Awaaz has always been committed to bring change in the campus and promotes unbiased journalism.</string>
+
+    <string name="five_title">Branching and Relations Cell</string>
+    <string name="five_desc">Branding and Relations cell is a student body under the aegis of the Office of Alumni Affairs and International Relations.
+        It aims towards positioning IIT Kharagpur as a global leader in the
+        field of science and technology.</string>
+
+    <string name="six_title">ClickKgp</string>
+    <string name="six_desc">a self-sustained photography group, run by the students of IIT Kharagpur for the students of the Institution and nearby area.
+        There are other student bodies run by the institution under the roof of Technology Gymkhana, however ours is NOT. We are photography enthusiasts who
+        believe in learning photography by everyday handling of camera,
+        which is backed by covering the different events ongoing in the campus.</string>
+
+    <string name="seven_title">Communique</string>
+    <string name="seven_desc">Communiqué aims to provide customized attention to all students by serving as an interface between professional communication
+        experts and individual students and working with the students to ensure that there is a perceptible change in the level of communication
+        skills in IIT Kharagpur.</string>
+
+    <string name="eight_title">Entrepreneurship Cell</string>
+    <string name="eight_desc">On its mission towards building an enterprising India, Entrepreneurship Cell, IIT Kharagpur provides great opportunities for start-ups, colleges, alumni and corporates
+        to get involved with us.</string>
+
+    <string name="nine_title">Gopali Youth Welfare Society</string>
+    <string name="nine_desc">Gopali Youth Welfare Society is a registered voluntary non-governmental organisation run by IIT Kharagpur students along with some faculty members with the support of local members from Gopali.</string>
+
+    <string name="ten_title">Institute Wellness Group</string>
+    <string name="ten_desc">Under the Students Welfare portfolio of the Technology Students Gymkhana, IWG consists of trained students who shall enforce welfare activities among the student community and act as primary nodes of mature student counseling.</string>
+
+    <string name="eleven_title">KOSS</string>
+    <string name="eleven_desc">A group of Coders who are enthusiastic about the Open Source Movement and spreading awareness about coding and FOSS in and around the IIT Kharagpur campus.</string>
+
+    <string name="twelve_title">Kshitij</string>
+    <string name="twelve_desc">Kshitij, the annual techno-management fest of IIT Kharagpur provides a platform for a confluence of students, academia, and the industry.</string>
+
+    <string name="thirteen_title">M.A.S.K</string>
+    <string name="thirteen_desc">A group of Otakus - Manga and Anime enthusiasts - engaging in Art, AMV making, Manga creation, and Quizzing</string>
+
+    <string name="fourteen_title">Prasthanam</string>
+    <string name="fourteen_desc">The youngest of all dramatics societies, Technology Dramatics Society - Prasthanam has grown in leaps and bounds since being recognized by the Technology Students Gymkhana in 2013. It is a society formed to assimilate, perpetuate and integrate the rich culture and dramatics heritage of the Telugu speaking people into the mainstream culture of IIT Kharagpur.</string>
+
+    <string name="fifteen_title">Rajasthan Cultural Association</string>
+    <string name="fifteen_desc">The objective of the society is to keep the spirit of Rajasthan alive, promote the brotherhood away from home and keep intact the rich culture and heritage</string>
+
+    <string name="sixteen_title">SPATS</string>
+    <string name="sixteen_desc">We, are a group of students, by the name of Space Technology Students Society (spAts).
+spAts functions as the student body of Kalpana Chawla Space Technology Cell (KCSTC), the contact point of Indian Space Research Organisation (ISRO) at IIT Kharagpur.</string>
+
+    <string name="seventeen_title">teamKart</string>
+    <string name="seventeen_desc">Official Formula SAE team of Indian Institute of Technology Kharagpur.
+We are a group of students who design and build race cars and compete in Formula Student events at national and international levels.</string>
+
+    <string name="eighteen_title">TLS</string>
+    <string name="eighteen_desc">Since, its inception decades ago, Technology Literary Society (TLS) has been the singular outlet for the literary skills of the Kgp populace, shining through all these years with the dreams and fantasies of many. Over the years, it has grown, both in size and sophistication, quite in synchronicity with the growth of IIT Kharagpur.</string>
+
+    <string name="nineteen_title">180 Degrees Consulting</string>
+    <string name="nineteen_desc">180 Degrees provides socially conscious organizations around the world with high quality and affordable consulting services. </string>
+
+
+    <string name="title_activity_act1">Act1</string>
+
+    <string name="tab_text_1">Physics</string>
+    <string name="tab_text_2">Chemistry</string>
+    <string name="physics_sem">Physics Sem</string>
+    <string name="engineering_lab">Engineering Lab</string>
+    <string name="basic_engineering_mechanics">Basic Engineering Mechanics</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="physics_of_waves">Physics Of Waves</string>
+    <string name="physics_lab">Physics Lab</string>
+    <string name="environmental_science">Environmental Science</string>
+    <string name="electrical_technology">Electrical Technology</string>
+    <string name="english_for_communication">English For Communication</string>
+    <string name="ed_and_cg">ED and CG</string>
+    <string name="pds">PDS</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="chemistry_lab">Chemistry Lab</string>
+    <string name="pds_lab">PDS Lab</string>
+    <string name="science_of_living_system">Science Of Living System</string>
+    <string name="chemistry_sem">Chemistry Sem</string>
+    <string name="study_materials">study materials</string>
+    <string name="clubs_and_societies">clubs and societies</string>
+    <string name="student_welfare_group">Student Welfare Group</string>
+    <string name="title_activity_study_materials">studyMaterials</string>
+
+
+</resources>
